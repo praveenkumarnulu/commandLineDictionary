@@ -2,9 +2,9 @@
   "name": "commandlinedictionary",
   "version": "1.0.0",
   "description": "testtorest",
-  "main": "contact.js",
+  "main": "index.js",
   "bin": {
-    "cld": "./contact.js"
+    "cld": "./index.js"
   },
   "scripts": {
     "start": "node app.js",
