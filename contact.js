@@ -10,7 +10,7 @@ program
 
 program.command('defn <word>')
     .alias('d')
-    .description('Get a definaiiotin afor a word.')
+    .description('Get a definition for the word.')
     .action((word) => {
         defn(word);
     });
