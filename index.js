@@ -5,7 +5,7 @@ const { defn, play, syn, ant, examples, fullDict, randomWord } = require('./logi
 
 program
     .version('0.0.1')
-    .description(' COntact management system');
+    .description(' Command Line Dictionary tool');
 
 
 program.command('defn <word>')
